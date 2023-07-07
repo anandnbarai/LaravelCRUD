@@ -8,8 +8,8 @@
 </p>
 
 ## Output
-<video width="320" height="240" controls>
-  <source src="Laravel CRUD.mp4" type="video/mp4">
+<video autoplay loop style="width:100%; height: auto; position:absolute;" controls>
+  <source src="Laravel CRUD.mp4" type="video/mp4" />
 </video>
 
 ## About Laravel
