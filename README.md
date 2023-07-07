@@ -8,8 +8,7 @@
 </p>
 
 ## OUTPUT
-
-https://github.com/anandnbarai/LaravelCRUD/assets/121215880/84b6ebd8-bfe4-48c4-ac1f-bc862b524304
+https://github.com/anandnbarai/LaravelCRUD/assets/121215880/8b01e1f9-6d2c-4fe7-8ac5-4f65a6b12251
 
 ## About Laravel
 
