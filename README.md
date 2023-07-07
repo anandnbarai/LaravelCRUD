@@ -10,6 +10,7 @@
 ## Output
 <video autoplay loop style="width:100%; height: auto; position:absolute;" controls>
   <source src="Laravel CRUD.mp4" type="video/mp4" />
+  <source src="Laravel CRUD.ogv" type="application/ogg" />
 </video>
 
 ## About Laravel
